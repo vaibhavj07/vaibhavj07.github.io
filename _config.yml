@@ -1,10 +1,7 @@
 title: Vaibhav Jain
-description: Data Engineer with 3 years of experience at Scotiabank and servicing clients such as Pfizer. Proven track record of significantly
-reducing costs and improving performance through innovative data strategies, including leveraging Parquet for storage efficiency,
-executing seamless data migrations, and enhancing data integration accuracy. Skilled in developing robust ETL/ELT pipelines
-and automating report generation, demonstrating expertise across a wide range of technologies including Apache Kafka,
-Hadoop, PySpark, and Power BI. Strong foundation in big data, cloud technologies, and programming, complemented by strong
-project management skills using tools like JIRA.
+description: Data Engineer with 3 years of experience at Scotiabank and servicing clients such as Pfizer. Proven track record of significantly reducing costs and improving performance through innovative data strategies, including leveraging Parquet for storage efficiency, 
+executing seamless data migrations, and enhancing data integration accuracy. Skilled in developing robust ETL/ELT pipelines and automating report generation, demonstrating expertise across a wide range of technologies including Apache Kafka,
+Hadoop, PySpark, and Power BI. Strong foundation in big data, cloud technologies, and programming, complemented by strong project management skills using tools like JIRA.
 #show_downloads: true
 logo: /images/linkedin_photo.jpeg
 theme: jekyll-theme-minimal
