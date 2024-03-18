@@ -3,8 +3,8 @@ Portfolio
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- M.Eng., Electrical & Computer Eng. | Ontario Tech University | (_2021 - 2022_)								       		
-- B.Tech., Electronics & Communication Eng. | SRM Institute of Science & Tech | (_2014 - 2018_)
+- M.Eng., Electrical & Computer Eng. | Ontario Tech University (2022)								       		
+- B.Tech., Electronics & Communication Eng. | SRM Institute of Science & Tech | (2018)
 
 ## Work Experience
 **Data Engineer @ Scotiabank (_June 2022 - Present_)**
