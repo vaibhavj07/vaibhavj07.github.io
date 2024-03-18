@@ -23,7 +23,7 @@ Collaborated with cross-functional teams to manage project life cycle using JIRA
 - Streamlined and shared 50+ data processes, reducing high-priority ticket resolution time by over 20% and optimizing access control.
 - Produced comprehensive and user-friendly dataset documentation and metadata to facilitate seamless data management and understanding.
 
-##PROJECTS
+## PROJECTS
 **Netflix Data Insights Platform on Azure (_Jan 2024 – Feb 2024_)**
 - Constructed and deployed a data pipeline using Azure SQL Database and Data Factory, migrating the Netflix dataset from SQL Server to Azure Storage. Enhanced scalability and data processing using Azure technologies, enabling advanced analytical operations.
 - Orchestrated data transformation and aggregation workflows using Azure Databricks and Spark SQL, culminating in the integration with Power BI for advanced data visualization and insights, facilitating data-driven decision-making processes.
