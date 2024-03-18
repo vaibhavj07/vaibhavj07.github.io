@@ -1,4 +1,5 @@
 # Data Engineer
+(/images/linkedin_photo.jpeg)
 #### Technical Skills: Python, SQL, Azure, GCP, Hadoop, Apache Spark, Apache Airflow, Elasticsearch
 
 ## Education
