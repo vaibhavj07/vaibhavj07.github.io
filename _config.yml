@@ -1,5 +1,5 @@
 title: Vaibhav Jain
-logo: /images/linkedin_photo.jpeg
-description: Data Engineer
+description: Data Engineer.
 #show_downloads: true
-theme: jekyll-theme-minima
+google_analytics:
+theme: jekyll-theme-midnight
