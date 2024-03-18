@@ -30,10 +30,10 @@ Collaborated with cross-functional teams to manage project life cycle using JIRA
 **Sales Data Elevate: Cloud-Based ETL and Analytics Transformation (_Jan 2024 – Feb 2024_)**
 - Engineered and launched a sophisticated data processing pipeline using Azure Data Lake Storage and Azure Data Factory to migrate Sales data into a cloud ecosystem. Enhanced data access and scalability with Azure, supporting complex analytical processes.
 - Architected and executed advanced data transformation and enrichment strategies with Azure Databricks and SparkSQL, seamlessly integrating with Azure Synapse Analytics for comprehensive data analysis.
-**ETL Pipeline for News Article Analysis (_Nov 2023 – Dec 2023_)**
+**[ETL Pipeline for News Article Analysis (_Nov 2023 – Dec 2023_)](https://github.com/vaibhavj07/News-Ingestion-ETL-Pipeline)**
 - Designed a robust, fault tolerant ETL pipeline using Python, Apache Kafka, Hadoop, and Hive to ingest and analyse real-time news articles from the NEWS API, handling over 1000 requests daily efficiently.
 - Improved the data streaming system with advanced Hive analytics on Google DataProc, enabling identification of trends like highest author count and most repeated keywords in the dataset.
 
 ## Contact Details
 - [Linkedin](https://www.linkedin.com/in/vaibhavjain01/)
-- Email - vaibhav.jain9607@gmail.com**
+- Email - vaibhav.jain9607@gmail.com
