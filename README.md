@@ -35,5 +35,5 @@ Collaborated with cross-functional teams to manage project life cycle using JIRA
 - Improved the data streaming system with advanced Hive analytics on Google DataProc, enabling identification of trends like highest author count and most repeated keywords in the dataset.
 
 ## Contact Details
-[Linkedin](https://www.linkedin.com/in/vaibhavjain01/)
-[Email](vaibhav.jain9607@gmail.com)
+**[Linkedin](https://www.linkedin.com/in/vaibhavjain01/)**
+**Email - vaibhav.jain9607@gmail.com**
